@@ -1,0 +1,14 @@
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/bin/Debug/net7.0/mainTest
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/bin/Debug/net7.0/mainTest.deps.json
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/bin/Debug/net7.0/mainTest.runtimeconfig.json
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/bin/Debug/net7.0/mainTest.dll
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/bin/Debug/net7.0/mainTest.pdb
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.AssemblyInfoInputs.cache
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.AssemblyInfo.cs
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.csproj.CoreCompileInputs.cache
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.dll
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/refint/mainTest.dll
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.pdb
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/mainTest.genruntimeconfig.cache
+/Users/barisortanca/Desktop/BarisCode/code-avec-enes/code test/mainTest/mainTest/obj/Debug/net7.0/ref/mainTest.dll
