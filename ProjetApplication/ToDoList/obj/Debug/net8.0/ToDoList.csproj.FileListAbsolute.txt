@@ -1,0 +1,15 @@
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.sourcelink.json
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/bin/Debug/net8.0/ToDoList
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/Users/barisortanca/Desktop/projet git/Projet-Personnel-en-C-/ProjetApplication/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
